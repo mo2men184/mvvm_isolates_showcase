@@ -6,6 +6,10 @@ A Flutter project demonstrating the use of MVVM (Model-View-ViewModel) architect
 
 This project showcases how to structure a Flutter application using MVVM architecture, leveraging Dart isolates for performing heavy computations in parallel threads. GetX is used for state management, providing a reactive and efficient way to update the UI based on changes in data.
 
+## 📽 Preview
+
+![App Demo](preview/mvvm_isolates_showcase.gif)
+
 ## Key Features 🚀
 
 - **MVVM Architecture**: Separates UI (View) from business logic (ViewModel) and data (Model), promoting a clean and maintainable codebase.
